@@ -13,6 +13,8 @@
     </head>
     <body>
         <h1>Welcome</h1>
-        <image src="welcome.jpg"></image>
+        <image src="welcome.jpg">
+            this is  TEST
+        </image>
     </body>
 </html>
