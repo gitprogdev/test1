@@ -15,14 +15,6 @@
         <h1>AL-ALBAYT UNIVERSITY</h1>
          <h1>COMPUTER CENTER </h1>
          <h2>PROGRAMMING DEVISION</h2>
-
-         <p>ahmad ma'adi</p>
-
-         <p>This is by samer al-khatib</p>
-         
-         <h3>
-             samer alkhatib second time
-         </h3>
-
+         <p>This is by samer al-khatib ahmad maadi</p>
     </body>
 </html>
